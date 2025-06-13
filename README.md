@@ -1,6 +1,6 @@
 # 🚀 Startup Copilot (Work-in-Progress)
 
-> **Note**: This is an in-progress GenAI tool, submitted as part of my project portfolio for hackathon shortlisting. The project showcases integrations of LLMs with real-world productivity tools.
+> **Note**: The project showcases integrations of LLMs with real-world productivity tools. This is an in-progress GenAI tool. 
 
 ---
 
